@@ -12,7 +12,7 @@ Author:              Brent Yorgey
 Maintainer:          byorgey@gmail.com
 Category:            Math
 Build-type:          Simple
-Cabal-version:       >=1.8
+Cabal-version:       >=1.10
 
 Source-repository head
   type:     git
